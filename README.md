@@ -33,4 +33,4 @@
 
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Komal-99&show_icons=true&theme=radical)](https://github.com/Deepanshu-Gupta-112/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepanshu-Gupta-112&show_icons=true&theme=radical)](https://github.com/Deepanshu-Gupta-112/github-readme-stats)
