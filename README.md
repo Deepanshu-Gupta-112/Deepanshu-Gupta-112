@@ -21,7 +21,7 @@
 <h3>Let's Connect</h3>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-komalgupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshu-gupta-9822bb1a0/)](https://www.linkedin.com/in/deepanshu-gupta-9822bb1a0/)
+[![Linkedin Badge](https://img.shields.io/badge/-DeepanshuGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepanshu-gupta-9822bb1a0/)](https://www.linkedin.com/in/deepanshu-gupta-9822bb1a0/)
 [![Gmail Badge](https://img.shields.io/badge/-deepanshugupta598@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepanshugupta598@gmail.com)](mailto:deepanshugupta598@gmail.com)
 
 
