@@ -2,7 +2,7 @@
 
 
 <p><i> I'm Deepanshu a 2st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
-<img src="https://e7.pngegg.com/pngimages/506/437/png-clipart-computer-icon-playing-computer-sitting-small-young-computer-network-child-thumbnail.png" align="right" height=38% width=38%>
+<img src="Deepanshu-Gupta-112/Deepanshu-Gupta-112/blob/main/logo.png?raw=true" align="right" height=38% width=38%>
 
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>MEAN development</code></li>
