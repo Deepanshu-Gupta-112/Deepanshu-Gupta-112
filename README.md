@@ -1,7 +1,7 @@
  # Hi there 🤗 
 
 
-<p><i> I'm Deepanshu a 2st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Deepanshu a 3st year B.Tech. CSE student at The Northcap University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>MEAN development</code></li>
